@@ -1,0 +1,109 @@
+{
+  "welcome": "Welcome to Doble Vía",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Doble Vía",
+      "subtitle": "Your trusted partner in business solutions"
+    },
+    "services": {
+      "title": "Our Services",
+      "item1": {
+        "title": "Business Consulting",
+        "description": "Strategic advice to optimize your business"
+      },
+      "item2": {
+        "title": "Software Development",
+        "description": "Custom technological solutions for your company"
+      },
+      "item3": {
+        "title": "Digital Marketing",
+        "description": "Effective strategies to boost your online presence"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "description": "We are a company committed to excellence and innovation, offering comprehensive solutions to drive your business growth."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Send us a message and we'll get back to you as soon as possible.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a wide range of services to boost your business",
+    "items": {
+      "item1": {
+        "title": "Business Consulting",
+        "description": "Strategic advice to optimize your business and achieve your goals."
+      },
+      "item2": {
+        "title": "Software Development",
+        "description": "Custom technological solutions to automate and improve your processes."
+      },
+      "item3": {
+        "title": "Digital Marketing",
+        "description": "Effective strategies to boost your online presence and reach more customers."
+      },
+      "item4": {
+        "title": "Web Design",
+        "description": "Creation of modern and responsive websites that reflect your brand identity."
+      },
+      "item5": {
+        "title": "SEO and SEM",
+        "description": "Search engine optimization and effective advertising campaigns."
+      },
+      "item6": {
+        "title": "Social Media",
+        "description": "Social media management to build and maintain your digital presence."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about our company and our mission",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide innovative and high-quality solutions that drive growth and digital transformation for our clients, contributing to their business success."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be recognized as industry leaders, known for our excellence, innovation, and commitment to our clients' success."
+    },
+    "values": {
+      "title": "Our Values",
+      "item1": {
+        "title": "Excellence",
+        "description": "We strive for excellence in everything we do, delivering solutions of the highest quality."
+      },
+      "item2": {
+        "title": "Innovation",
+        "description": "We foster innovation and creativity to provide unique and effective solutions."
+      },
+      "item3": {
+        "title": "Commitment",
+        "description": "We are committed to our clients' success and delivering exceptional results."
+      },
+      "item4": {
+        "title": "Integrity",
+        "description": "We act with honesty, transparency, and ethics in all our relationships."
+      }
+    }
+  }
+}

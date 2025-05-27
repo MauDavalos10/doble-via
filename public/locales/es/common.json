@@ -1,0 +1,109 @@
+{
+  "welcome": "Bienvenido a Doble Vía",
+  "menu": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenido a Doble Vía",
+      "subtitle": "Tu socio de confianza en soluciones empresariales"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "item1": {
+        "title": "Consultoría Empresarial",
+        "description": "Asesoramiento estratégico para optimizar tu negocio"
+      },
+      "item2": {
+        "title": "Desarrollo de Software",
+        "description": "Soluciones tecnológicas personalizadas para tu empresa"
+      },
+      "item3": {
+        "title": "Marketing Digital",
+        "description": "Estrategias efectivas para potenciar tu presencia online"
+      }
+    },
+    "about": {
+      "title": "Sobre Nosotros",
+      "description": "Somos una empresa comprometida con la excelencia y la innovación, ofreciendo soluciones integrales para impulsar el crecimiento de tu negocio."
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte. Envíanos un mensaje y nos pondremos en contacto contigo lo antes posible.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Ofrecemos una amplia gama de servicios para impulsar tu negocio",
+    "items": {
+      "item1": {
+        "title": "Consultoría Empresarial",
+        "description": "Asesoramiento estratégico para optimizar tu negocio y alcanzar tus objetivos."
+      },
+      "item2": {
+        "title": "Desarrollo de Software",
+        "description": "Soluciones tecnológicas personalizadas para automatizar y mejorar tus procesos."
+      },
+      "item3": {
+        "title": "Marketing Digital",
+        "description": "Estrategias efectivas para potenciar tu presencia online y llegar a más clientes."
+      },
+      "item4": {
+        "title": "Diseño Web",
+        "description": "Creación de sitios web modernos y responsivos que reflejen la identidad de tu marca."
+      },
+      "item5": {
+        "title": "SEO y SEM",
+        "description": "Optimización para motores de búsqueda y campañas publicitarias efectivas."
+      },
+      "item6": {
+        "title": "Redes Sociales",
+        "description": "Gestión de redes sociales para construir y mantener tu presencia digital."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Conoce más sobre nuestra empresa y nuestra misión",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Proporcionar soluciones innovadoras y de alta calidad que impulsen el crecimiento y la transformación digital de nuestros clientes, contribuyendo a su éxito empresarial."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser reconocidos como líderes en la industria, destacando por nuestra excelencia, innovación y compromiso con el éxito de nuestros clientes."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "item1": {
+        "title": "Excelencia",
+        "description": "Buscamos la excelencia en todo lo que hacemos, entregando soluciones de la más alta calidad."
+      },
+      "item2": {
+        "title": "Innovación",
+        "description": "Fomentamos la innovación y la creatividad para ofrecer soluciones únicas y efectivas."
+      },
+      "item3": {
+        "title": "Compromiso",
+        "description": "Nos comprometemos con el éxito de nuestros clientes y con la entrega de resultados excepcionales."
+      },
+      "item4": {
+        "title": "Integridad",
+        "description": "Actuamos con honestidad, transparencia y ética en todas nuestras relaciones."
+      }
+    }
+  }
+}
